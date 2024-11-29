@@ -1,7 +1,8 @@
+# <h1 style="text-align:center;">CoFlow, Seamless Collaboration, Infinite Possibilities</h1>
 <div align="center">
   <br />
-  ![project-banner](https://github.com/user-attachments/assets/656d495e-7d84-47a5-89e5-49098bb5a84c)
-
+  <img src="https://github.com/user-attachments/assets/656d495e-7d84-47a5-89e5-49098bb5a84c" alt="Project Banner"
+  width="800">
   <br />
 
   <div>
